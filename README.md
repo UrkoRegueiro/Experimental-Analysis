@@ -3,4 +3,4 @@ This repository contains the analysis and report of three experiments conducted 
 
 Nuclear Physics -> 	Beta Spectroscopy
 
-Applied Physics -> Thermodynamics of micellization & Thermophysical and Tribological Caracterization of Lubricants
+Applied Physics -> Thermodynamics of micellization & Thermophysical and Tribological Characterization of Lubricants
